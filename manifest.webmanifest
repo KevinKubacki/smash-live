@@ -1,0 +1,18 @@
+{
+  "name": "Smash Live",
+  "short_name": "Smash Live",
+  "description": "Rencontres, scores en direct et classement de l'équipe du Vallée de Chevreuse Tennis Club.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef3eb",
+  "theme_color": "#14215a",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
